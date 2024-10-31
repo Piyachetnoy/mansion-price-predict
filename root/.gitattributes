@@ -1,0 +1,7 @@
+# コードファイルにLFを強制する
+*.py text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+
+# テキストファイルにCRLFを強制する
+*.bat text eol=crlf
